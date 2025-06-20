@@ -1,0 +1,20 @@
+.canvas{
+     margin: 0;
+     padding: 0;
+     font-family:sans-serif;
+     box-sizing: border-box;
+    
+}
+
+body{
+     background: silver;
+     color: black;
+     
+}
+
+.Title-Of-Page{
+     font-size: 36px;
+     font-weight: 400;
+     color: rgba(3, 3, 74, 0.905);
+} 
+
